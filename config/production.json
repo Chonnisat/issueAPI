@@ -1,0 +1,20 @@
+{
+    // Customer module configs 
+    "Config": {
+        "mysql": {
+            "host": "203.151.27.179",
+            "user": "pnp",
+            "password": "pnp",
+            "database": "psw_db",
+            "connectionLimit": 10,
+            "multipleStatements": true
+        },
+        "uploadPath": "C:/Users/PnPSolution/Google Drive/issue/uploads/",
+        "auth": {
+            "jwtSecret": "MyS3cr3tK3Y",
+            "jwtSession": {
+                "session": false
+            }
+        }
+    }
+}
