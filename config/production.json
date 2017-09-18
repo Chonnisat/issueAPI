@@ -9,7 +9,7 @@
             "connectionLimit": 10,
             "multipleStatements": true
         },
-        "uploadPath": "C:/Users/PnPSolution/Google Drive/issue/uploads/",
+        "uploadPath": "/root/project/issue/uploads/",
         "auth": {
             "jwtSecret": "MyS3cr3tK3Y",
             "jwtSession": {
