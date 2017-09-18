@@ -4,6 +4,7 @@
 /build
 /tmp
 /out-tsc
+/build
 
 # dependencies
 /node_modules
