@@ -7,7 +7,7 @@ module.exports = {
 
     // First application
     {
-      name      : 'api.issueApi.com',
+      name      : 'issueapi.pnpsw.com',
       script    : './build/server.js',
       instances : 0,
       exec_mode : "cluster",
